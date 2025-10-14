@@ -1,6 +1,6 @@
-# Static Files Hosting
+# Static
 
-This is the host for static files.
+Host for static files
 
 ## Encryption
 
