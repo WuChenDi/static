@@ -8,6 +8,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 1
       },
       {
@@ -17,6 +18,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 2
       },
       {
@@ -26,6 +28,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 3
       },
       {
@@ -35,6 +38,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 4
       },
       {
@@ -44,6 +48,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 5
       },
       {
@@ -53,6 +58,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 6
       },
       {
@@ -62,6 +68,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 7
       },
       {
@@ -71,6 +78,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 8
       },
       {
@@ -80,6 +88,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 9
       },
       {
@@ -89,6 +98,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 10
       },
       {
@@ -98,6 +108,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 11
       },
       {
@@ -107,6 +118,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 12
       },
       {
@@ -116,6 +128,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 13
       },
       {
@@ -125,6 +138,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 14
       },
       {
@@ -134,6 +148,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 15
       },
       {
@@ -143,6 +158,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 16
       },
       {
@@ -152,6 +168,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 17
       },
       {
@@ -161,6 +178,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 18
       },
       {
@@ -170,6 +188,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 19
       },
       {
@@ -179,6 +198,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 20
       },
       {
@@ -188,6 +208,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 21
       },
       {
@@ -197,6 +218,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 22
       },
       {
@@ -206,6 +228,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 23
       },
       {
@@ -215,6 +238,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 24
       },
       {
@@ -224,6 +248,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 25
       },
       {
@@ -233,6 +258,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 26
       },
       {
@@ -242,6 +268,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 27
       },
       {
@@ -251,6 +278,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 28
       },
       {
@@ -260,6 +288,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 29
       },
       {
@@ -269,6 +298,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 30
       },
       {
@@ -278,6 +308,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 31
       },
       {
@@ -287,6 +318,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 32
       },
       {
@@ -296,6 +328,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 33
       },
       {
@@ -305,6 +338,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 34
       },
       {
@@ -314,6 +348,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 35
       },
       {
@@ -323,6 +358,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 36
       },
       {
@@ -332,6 +368,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 37
       },
       {
@@ -341,6 +378,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 38
       },
       {
@@ -350,6 +388,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 39
       },
       {
@@ -359,6 +398,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 40
       },
       {
@@ -368,6 +408,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 41
       },
       {
@@ -377,6 +418,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 42
       },
       {
@@ -386,6 +428,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 43
       },
       {
@@ -395,6 +438,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 44
       },
       {
@@ -404,6 +448,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 45
       },
       {
@@ -413,6 +458,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 46
       },
       {
@@ -422,6 +468,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 47
       },
       {
@@ -431,6 +478,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 48
       },
       {
@@ -440,6 +488,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 49
       },
       {
@@ -449,6 +498,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 50
       },
       {
@@ -458,6 +508,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 51
       },
       {
@@ -467,6 +518,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 52
       },
       {
@@ -476,6 +528,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 53
       },
       {
@@ -485,6 +538,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 54
       },
       {
@@ -494,6 +548,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 55
       },
       {
@@ -503,6 +558,7 @@
         "searchPath": "",
         "detailPath": "",
         "enabled": true,
+        "group": "normal",
         "priority": 56
       }
     ],
