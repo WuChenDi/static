@@ -12,6 +12,8 @@ Source configuration links for **[floxx/settings](https://floxx.pages.dev/settin
 
 - https://cdn.jsdelivr.net/gh/WuChenDi/static/flox/sources.json
 - https://cdn.jsdelivr.net/gh/WuChenDi/static/flox/sources-all.json
+- https://cdn.jsdelivr.net/gh/WuChenDi/static/flox/sources-link.json
+- https://cdn.jsdelivr.net/gh/WuChenDi/static/flox/sources-link-all.json
 
 ## 📜 License
 
